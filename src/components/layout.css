@@ -41,6 +41,13 @@ a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
+a:link{
+  color: hotpink;
+  text-decoration: none;
+}
+a:visited {
+  color: darkgreen;
+}
 a:active,
 a:hover {
   outline-width: 0;

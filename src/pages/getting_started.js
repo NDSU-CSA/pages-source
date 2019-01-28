@@ -140,6 +140,11 @@ const ez = () => (
 					is an operating system that can be booted from. Images can be a copy of any 
 					file, as long as it is an exact copy byte-for-byte.
 				</i></p>
+				<h4>Installing Kali Linux</h4>
+				<p>
+					Here's a great guide: <a href="https://linuxconfig.org/how-to-install-kali-linux-on-virtualbox"></a>
+					so do this
+				</p>
 			</div>
 		</div>
 		<h2>Legal and Ethical Concerns</h2>

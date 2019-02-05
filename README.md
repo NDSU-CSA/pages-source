@@ -1,4 +1,5 @@
 # NDSU CSA Github Pages Site Source
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d32d6ba-e828-4dd1-8ff5-297d498cd914/deploy-status)](https://app.netlify.com/sites/hardcore-euclid-08c8db/deploys)
 
 > "I wasn't actually in love, but I felt a sort of tender curiosity."
 > ―F. Scott Fitzgerald, The Great Gatsby 

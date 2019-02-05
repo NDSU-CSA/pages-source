@@ -26,13 +26,6 @@ export const ContactInfoQuery = graphql`
                     subTitle,
                     email,
                     phoneNumber
-                },
-                facultyAdvisor {
-                    title,
-                    name,
-                    subTitle,
-                    email,
-                    phoneNumber
                 }
             }
         }

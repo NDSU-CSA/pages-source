@@ -8,18 +8,11 @@ module.exports = {
         schoolFull: `North Dakota State University`,
         contactInfo: {
             president: {
-                title: "President",
-                name: "Kelvin Boatey",
+                title: "Current Tresurer",
+                name: "Lucas Miller",
                 subTitle: "",
-                email: "kelvin.boatey@ndsu.edu",
+                email: "lucas.miller@ndsu.edu",
                 phoneNumber: ""
-            },
-            facultyAdvisor: {
-                title: "Faculty Advisor",
-                name: "Jeremy Straub",
-                subTitle: "Assistant Professor",
-                email: "jeremy.straub@ndsu.edu",
-                phoneNumber: "701-231-8196"
             }
         }
     },
